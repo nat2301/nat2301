@@ -2,8 +2,6 @@
 
 ###
 
-<h2 align="center">👩‍💻  About Me 👩‍💻</h2>
-
 ###
 
 <h4 align="center">I'm Nathan Kurniawan<br><br>📚 I'm currently learning Computer Science, particularly in the field of database systems. 📚</h4>
